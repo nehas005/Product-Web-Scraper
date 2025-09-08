@@ -48,7 +48,7 @@ To use this script, simply save the code to a `.py` file and run it from your te
 
 Here is what a typical output from the script looks like:
 --- Product Information ---
-Title: Example Product Name
-Price: $25.99
-Rating: 4.5 out of 5 stars
-Availability: In Stock
+*Title: Example Product Name*
+*Price: $25.99*
+*Rating: 4.5 out of 5 stars*
+*Availability: In Stock*
